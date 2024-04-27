@@ -50,6 +50,7 @@ public class Principal {
         try {
 
             try {
+                FicheroKey ficheroKey = new FicheroKey (dirPath);
                 apiKey = ficheroKey.getApikey();
                 matcher = pattern.matcher(apiKey);
 
