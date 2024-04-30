@@ -11,7 +11,7 @@
 <p align="center"><img src="https://img.shields.io/badge/Licence-Mit-fedcba?style=for-the-badge&labelColor=black"></p>
 
 
-Índice
+## Índice
 
 [Descripción del proyecto](#descripción-del-proyecto)
 
@@ -37,7 +37,7 @@ Completado.
 
 
 
-### Funcionalidades de la aplicación 
+## Funcionalidades de la aplicación 
 
 * Muestra las opciones para la conversión de las divisas
 * Muestra las divisas disponibles a convertir 
