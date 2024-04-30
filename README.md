@@ -19,7 +19,7 @@
 
 [Funcionalidades de la aplicación](#Funcionalidades-de-la-aplicación)
 
-[Acceso al proyecto y Tecnologías utilizadas](#Acceso-proyecto-y-Tecnologías-utilizadas)
+[Acceso al proyecto y tecnologías utilizadas](#Acceso-al-proyecto-y-tecnologías-utilizadas)
 
 [Consideraciones](#consideraciones)
 
@@ -56,7 +56,7 @@ Pasos para la instalacion
    4. Ejecutar el archivo jar que hay dentro
 
 ### 1. Obtener la API key
-El conversor de monedas utiliza una API-KEY para funcionar por lo que debe registarse en [ExchangeRateApi]() para obtener la respectiva API-KEY
+El conversor de monedas utiliza una API-KEY para funcionar por lo que debe registarse en [ExchangeRateApi](https://v6.exchangerate-api.com) para obtener la respectiva API-KEY
 ### 2. Descargar el JRE
 Para poder correr la application es necesario tener el entorno de ejecucion pertinente puede [descargarlo](https://www.oracle.com/java/technologies/downloads/)
 ### 3. Descargar el proyecto
