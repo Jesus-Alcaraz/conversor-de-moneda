@@ -47,7 +47,7 @@ Completado.
 * En el menú da la opcion para generar una nueva conversión.
 
 
-## Acceso al proyecto y Tecnologías utilizadas
+## Acceso al proyecto y tecnologías utilizadas
 
 Pasos para la instalacion
    1. Obtener su API key
