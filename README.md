@@ -8,7 +8,7 @@
 ![Maven Central Version](https://img.shields.io/maven-central/v/com.google.code.gson/gson?versionPrefix=2.10.1&style=for-the-badge&label=Gson&color=153448&link=https%3A%2F%2Fgithub.com%2Fgoogle%2Fgson)
 ![Static Badge](https://img.shields.io/badge/Release%20Date-April-5F374B?style=for-the-badge&labelColor=416D19)
 ![Static Badge](https://img.shields.io/badge/status-finished-yellow?style=for-the-badge&labelColor=76885B)
-<p align="center"><img src="https://img.shields.io/badge/Licence-Mit-fedcba?style=for-the-badge&labelColor=black"></p>
+![Static Badge](https://img.shields.io/badge/Licence-Mit-fedcba?style=for-the-badge&labelColor=black)
 
 
 ## Índice
